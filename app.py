@@ -1,4 +1,4 @@
-# Demo: https://your-demo-link.streamlit.app 
+# Demo: https://heart-predict-ej86fwnbvki6nctdlwqeng.streamlit.app/
 # Source Code: https://github.com/bnvtoi5/heart-predict
 import streamlit as st
 import numpy as np
